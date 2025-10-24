@@ -56,8 +56,8 @@ El resultado se mostrará en pantalla.
 - *División:* /
 
 ## 👥 Autores
-- [Tu Nombre]
-- [Nombre del Compañero]
+- Kevin lorenzo Madrid Neira
+- Erwin Jonner Jaime Lamus
 
 ## 📅 Fecha
 Octubre 2025
